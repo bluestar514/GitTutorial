@@ -1,3 +1,1 @@
-Hey, this is the contents of doc1.txt!
-
-If you do cat doc1.txt in your console, it should display all this. 
+AHHHHHHH
